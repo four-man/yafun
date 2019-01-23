@@ -14,7 +14,9 @@
     <modules>
         <module>yafun-api</module>
         <module>yafun-common</module>
-        <module>yafun-demo</module>
+        <module>yafun-backend</module>
+        <module>yafun-auth</module>
+        <module>yafun-chat</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
